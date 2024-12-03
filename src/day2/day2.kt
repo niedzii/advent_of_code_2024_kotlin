@@ -1,7 +1,6 @@
 package day2
 
 import java.io.File
-import kotlin.math.absoluteValue
 
 fun main() {
     val input = File("src/day2", "day2_input.txt").readLines()
