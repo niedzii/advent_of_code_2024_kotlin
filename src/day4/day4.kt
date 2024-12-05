@@ -5,7 +5,7 @@ import java.io.File
 fun main() {
     val input = File("src/day4", "day4_input.txt").readLines()
     println("Stage 1 answer is ${stageOne(input)}") // 2454
-    println("Stage 2 answer is ${stageTwo(input)}") //
+    println("Stage 2 answer is ${stageTwo(input)}") // 1858
 }
 
 fun stageOne(input: List<String>): Int {
